@@ -22,9 +22,7 @@ The script performs the following steps:
 7. Obtains and decodes the SSL certificate information using the ssl and cryptography modules.
 8. Prints the collected information, including the title, domain, domain registrar, domain status, IP addresses, emails, meta tags, links, and SSL certificate details.
 
-To use the script, you need to provide a website URL as input. It will then display the collected information about the website:
-
-`python3 ./WebInfo <URL>`
+To use the script, you need to provide a website URL as input. It will then display the collected information about the website
 
 # Libraries
 This script makes use of several libraries and modules to perform its task.
